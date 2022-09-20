@@ -18,7 +18,7 @@ h1 {
 }
 
 .container-md {
-  background-image: url('/to-do-list/src/assets/img/ground.jpg');
+  background-image: url('/src/assets/img/ground.png');
   background-position: center;
   background-size: cover; 
   background-repeat: no-repeat;  
@@ -74,7 +74,7 @@ form input {
   border-bottom: 2px solid #ffffff;
   outline: none;
 }
- /* Start of creating a custom checkbox */
+ 
 .checkbox-container {
   display: block;
   position: relative;

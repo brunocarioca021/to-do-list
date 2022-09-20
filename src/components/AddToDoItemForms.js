@@ -36,7 +36,7 @@ export const AddToDoItemForm = (props) => {
       />
       <input 
         type="submit" 
-        value="add new one" 
+        value="Adicionar o Dia" 
         className="btn btn-secondary btn-sm add-new-one"
         disabled={disabled}
       />
