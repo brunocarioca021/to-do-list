@@ -1,4 +1,4 @@
-<img src="src/assets/img/tela%20print.jpg" alt="imagem printada do ínicio da tela To Do List">
+<img align="center" src="src/assets/img/tela%20print.jpg" alt="imagem printada do ínicio da tela To Do List">
 
 <h1 align="center">To Do List</h1>
 
